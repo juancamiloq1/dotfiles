@@ -9,8 +9,9 @@ module.exports = {
     updateChannel: 'canary',
     // font family with optional fallbacks
     fontFamily: "Menlo, DejaVu Sans Mono, Lucida Console, monospace",
+    uiFontFamily: "Roboto, Arial",
     // default font size in pixels for all tabs
-    fontSize: 14,
+    fontSize: 18,
     wickedBorder: true,
     // custom padding (CSS format, i.e.: `top right bottom left`)
     padding: '10px',
@@ -146,4 +147,3 @@ module.exports = {
     // 'window:devtools': 'cmd+alt+o',
   },
 };
-
